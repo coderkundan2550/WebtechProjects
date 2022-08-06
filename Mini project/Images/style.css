@@ -1,0 +1,99 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(pexels-sanket-barik-12229505.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    height: 25px;
+    background-color: rgba(10, 142, 236, 0.215);
+    padding: 10px;
+    text-align: end;
+    color: white;
+}
+/* For navbar css properties */
+li {
+    display: inline-block;
+    font-size: 20px;
+    color: red;
+    margin-left: 10px;
+    background-color: rgba(0, 128, 0, 0);
+
+}
+
+.link {
+    color: white;
+}
+
+/* For heading kedarnath */
+#heading {
+    position: absolute;
+    color: rgba(0, 0, 0, 0.686);
+    font-size: 50px;
+    margin: -15px;
+    margin-left: 620px;
+}
+
+/* For div class box */
+.box {
+    height: 650px;
+    background-size: cover;
+    margin: 20px;
+    background-color: rgba(14, 233, 76, 0.058);
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px 5px black;
+}
+
+/* Inner box1 */
+ .innerbox{ 
+    height: 500px;
+    width: 300px;
+    background-color: rgba(0, 26, 128, 0.548);
+    display: inline-flex;
+    margin: 80px 50px 70px 80px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px 5px black;
+    border-radius: 20px;
+    
+
+} 
+
+/* Code for inner circle box */
+.circle {
+    height: 250px;
+    width: 250px;
+    background-color: aliceblue;
+    border-radius: 50%;
+    margin: 0px 20px 10px 20px;
+    box-shadow: 5px 5px 10px 5px rgb(10, 10, 10);
+
+}
+
+/* Image for id circle box */
+#circle1 {
+    background-image: url(pexels-raj-soni-9068562.jpg);
+    background-size: cover;
+}
+
+#circle2 {
+    background-image: url(pexels-sujit-hirapara-2297252.jpg);
+    background-size: cover;
+}
+
+#circle3 {
+    background-image: url(pexels-sagar-shally-11305767.jpg);
+    background-size: cover;
+}
+.content{
+    height: 263px;
+    width: 300px;
+    position: absolute;
+    margin: 254px -62px 104px 0px;
+    display: flex;
+    color: white;
+}

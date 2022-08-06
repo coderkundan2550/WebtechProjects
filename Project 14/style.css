@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.form{
+    height: 650px;
+    width: 400px;
+    background-color: #0C2340;
+    background-size: cover;
+    border-radius: 20px;
+    margin: 90px 0px 0px 653px;
+}
+#heading{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    margin: 0px 0px 0px 150px;
+}
+.persons{
+    height: 60px;
+    width: 60px;
+    border-radius:50%;
+    display: inline-block;
+    margin: 34px 0px 0px 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#parent{
+    background-image: url(Images/73-737572_clipart-teacher-parent-parents-clipart-png-transparent-png.png);
+    background-size: cover;
+}
+#child{
+    background-image: url(Images/63538898865befb69baa9ba49147abdf.jpg);
+    background-size: cover;
+}
+#teacher{
+    background-image: url(Images/images.jpg);
+    background-size: cover;
+}
+.input{
+    color: white;
+    background-color: rgba(255, 255, 255, 0);
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 30px ;
+    border: 1px solid rgba(255, 255, 255, 0.659);
+    margin: 3px 0px 0px 47px;
+}
+#create{
+    color: white;
+    background-color: rgba(255, 68, 0, 0.908);
+    height: 40px;
+    width: 300px;
+    font-size: 15px;
+    border-radius: 30px;
+    border: none;
+    margin: 40px 0px 0px 47px;
+}
+#terms{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 0px 0px 50px;
+}
+#icon{
+    color:gray;
+    font-size: 20px;
+    margin: 16px 0px 0px 65px;
+    position: absolute;
+}

@@ -1,0 +1,75 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.search{
+    /* background-color: aqua; */
+    height: 40px;
+    width: 1707px;
+    font-size: 100px;
+    display: flex;
+}
+#searchbar{
+    height: 25px;
+    width: 500px;
+    border: none;
+    text-align: center;
+    border-radius: 2px;
+    box-shadow: 55px 8px 131px 14px gray ;
+    /* position: relative; */
+    margin: 5px 0px 0px 550px;
+}
+#iconsearch{
+    color: gray;
+    font-size: 13px;
+    margin: 11px 0px 0px 748px ;
+    position: absolute;
+    z-index: -2px;
+}
+#iconrepeat{
+    color: gray;
+    font-size: 13px;
+    position: absolute;
+    z-index: -2px;
+    margin: 12px 0px 0px 1092px;
+}
+#p{
+    color: white;
+    font-size: 120px;
+    font-family: 'Lavishly Yours', cursive;
+    margin: 79px 0px 0px 590px;
+}
+#anchor{
+    margin: -296px 0px 0px 866px ;
+}
+.anchor{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 15px;
+}
+#contact{
+    color: white;
+    background-color: rgba(183, 44, 44, 0.93);
+    height: 35px;
+    width: 80px;
+    border: none;
+}
+.img{
+    height: 300px;
+    width: 1707px;
+    background-image: url(Images/pexels-chumz-añarol-54577033.jpg);
+    background-size: cover;
+}
+#heading{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    margin: 0px 0px 0px 100px;
+    /* padding: 50px; */
+}
+.input{
+    height: 40px;
+    width: 400px;
+    margin: 0px 0px 0px 680px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

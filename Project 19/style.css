@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+}
+.box{
+    height: 500px;
+    width: 800px;
+    background-color: white;
+    margin: 200px auto;
+    margin-top: 120px;
+    border-radius: 5px;
+}
+#heading{
+    font-size: 25px;
+    font-family: sans-serif;
+    padding: 30px;
+}
+form{
+    padding: 30px;
+}
+.innerbox1{
+    height: 300px;
+    width: 425px;
+    margin-top: -76px;
+}
+.innerbox2{
+    height: 300px;
+    width: 384px;
+    margin: -300px 0px 0px 382px;
+}
+.label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.input{
+    height: 15px;
+    width: 320px;
+    padding: 10px;
+}
+.innerbox3{
+    margin: -56px 0px 0px 0px;
+}
+#labradio1{
+    margin: 125px;
+}
+#labradio2{
+    margin: 15px;
+}
+.register{
+    height: 40px;
+    width: 725px;
+    font-size: 18px;
+    color: white;
+    background-color: #4158D0;
+    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 10px;
+    margin: 35px 0px 0px 0px;
+    border: none;
+    border-radius: 5px;
+}

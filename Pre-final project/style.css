@@ -1,0 +1,184 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+
+    background-image: url(Images/pexels-helena-lopes-4453153.jpg);
+    background-size: cover;
+    position: absolute;
+    background-repeat: no-repeat;
+}
+
+#travel{
+    color: black;
+    font-size: 30px;
+    margin: 10px 527px 0px 0px;
+    padding: 30px;
+    position: relative;
+}
+
+#button {
+    background-color: rgb(123, 19, 221);
+    /* border: solid; */
+    border-radius: 10px;
+    color: white;
+    margin: 20px 11px 89px 5px;
+    padding: 0px;
+
+}
+
+/* nav{
+    margin: 20px;
+    padding: 10px;
+    background-color: rgb(21, 129, 129);
+} */
+li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.link {
+    color: black;
+    font-size: 20px;
+}
+
+.content {
+    font-size: 40px;
+    margin: 200px 0px 0px 50px;
+}
+
+#heading {
+    margin: 100px 0px 0px 650px;
+    font-size: 30px;
+    padding: 60px;
+
+}
+
+/* Coding for Places  */
+.innerbox {
+    /* background-color: rgba(0, 128, 0, 0.208); */
+    height: 400px;
+    width: 300px;
+    display: flex;
+    display: inline-block;
+    margin: 5px 10px 21px 30px;
+}
+
+#box1 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/India.jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+#box2 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/London.jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+#box3 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/America.jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.info {
+    height: 200px;
+    width: 300px;
+    /* background-color: rgb(40, 38, 38); */
+    /* position: relative; */
+    margin: 10px 0px 0px 0px;
+    text-align: center;
+}
+
+#box4 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/Paris\ \(2\).jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+#box5 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/Rome.jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+#box6 {
+    height: 200px;
+    width: 300px;
+    background-image: url(Images/Thailand.jpg);
+    background-size: cover;
+    margin: 0px 0px 0px 0px;
+    border-radius: 10px;
+}
+
+.footer {
+    height: 150px;
+    width: 1685px;
+    background-color: black;
+    background-size: cover;
+    color: white;
+}
+
+.travel {
+    height: 10px;
+    width: 60px;
+    padding: 30px;
+    margin: 10px 527px 0px 0px;
+}
+#travel1{
+    height: 30px;
+    width: 100px;
+    color: white;
+    font-size: 35px;
+    position: relative;
+    margin: 44px 0px 87px 15px;
+    display: inline-block;
+}
+#footerinfo {
+    height: 100px;
+    width: 200px;
+    position: relative;
+    margin: -130px 0px 0px 232px;   
+}
+#footerinfo1 {
+    height: 100px;
+    width: 200px;
+    position: relative;
+    margin: -100px 0px 0px 432px;  
+}
+.color{
+    color: white;
+    font-size: 20px;
+}
+.icon{
+    height: 100px;
+    width: 200px;
+    font-size: 20px;
+    position: relative;
+    margin: -104px 0px 0px 700px;   
+}
+.button{
+    height: 40px;
+    width: 150px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    background-color: rgba(127, 255, 212, 0.125);
+}

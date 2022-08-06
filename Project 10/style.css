@@ -1,0 +1,58 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.outer{
+    background-image: url(Images/pngtree-2-5d-axonometric-business-desk-work-banner-image_196342.jpg);
+    height: 600px;
+    width: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    margin: 111px 0px 0px 391px;
+}
+.header{
+    height: 40px;
+    width: 900px;
+    background-color: white;
+    margin:-88px -707px 0px 0px;
+    font-size:80px;
+    display: flex;
+}
+.heading{
+    color: white;
+    width: 562px;
+    margin: 39px 0px 0px -66px;
+    font-family: 'Anek Malayalam', sans-serif;
+}
+.label{
+    font-size: 20px;
+    margin: 0px 0px 0px 1px;
+}
+.input{
+    height: 30px;
+    width: 250px;
+}
+#message{
+    height: 70px;
+    width: 510px;
+}
+.choose{
+    background-color: rgba(135, 207, 235, 0);
+    height: 100px;
+    width: 510px;
+    border: 1px solid white;
+    text-align: center;
+    
+}
+#submit{
+    color: white;
+    background-color: rgba(240, 248, 255, 0);
+    height: 35px;
+    width: 250px;
+    border: 1px solid white;
+}
+.fa{
+    margin: 70px 0px 0px 809px
+}

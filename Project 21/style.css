@@ -1,0 +1,90 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(Images/pexels-mateusz-dach-450035.jpg);
+    /* background-size: cover; */
+    background-repeat: no-repeat;
+}
+#heading{
+    text-align: center;
+    color: white;
+    font-family: 'Inter', sans-serif;
+    font-size: 45px;
+    padding: 50px;
+}
+.form{
+    background-color: rgba(0, 0, 0, 0.764);
+    height: 550px;
+    width: 550px;
+    margin-left: 600px;
+}
+#nav{
+    color: white;
+    font-size: 30px;
+    font-family: 'Inter', sans-serif;
+    margin-left: 150px;
+}
+.username{
+    background-color: rgba(255, 255, 255, 0.205);
+    height: 50px;
+    width: 405px;
+    margin: 51px 0px 0px 76px
+}
+.password{
+    background-color: rgba(255, 255, 255, 0.205);
+    height: 50px;
+    width: 405px;
+    margin: 25px 0px 0px 76px
+}
+.input{
+    color: white;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.733);
+    height: 15px;
+    width: 298px;
+    border: none;
+    margin: 6px 0px 0px 66px
+}
+#icons{
+    color: white;
+    font-size: 15px;
+    margin: 0px -27px 0px 15px;
+}
+#check{
+    margin-left: 30px;
+    color: white;
+}
+#login{
+    color: white;
+    font-size: 20px;
+    background-color: rgb(11, 179, 246);
+    height: 35px;
+    width: 170px;
+    border: none;
+    margin-left: 110px;
+}
+.fitg{
+    background-color: rgba(255, 255, 255, 0.205);
+    height: 120px;
+    width: 420px;
+    margin: 40px 0px 0px -5px;
+    border: 1px solid white;
+}
+.icon{
+    color: white;
+    margin: 27px 0px 0px 125px;
+}
+.icon1{
+    padding: 10px;
+    font-size: 13px;
+    background-color: rgba(255, 255, 255, 0.132);
+    border-radius: 20px;
+}
+#info{
+    color: white;
+    font-size: 12px;
+    padding: 10px;
+    font-family: 'Inter', sans-serif;
+}

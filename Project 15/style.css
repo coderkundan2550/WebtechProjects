@@ -1,0 +1,67 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.outer{
+    background-image: url(Images/background);
+    background-size: cover;
+    height: 750px;
+    width: 900px;
+    margin: 58px 0px 0px 323px;
+}
+.inner1{
+    background-image: url(Images/background);
+    background-size: cover;
+    height: 690px;
+    width: 334px;
+    margin: 30px 0px 0px 95px;
+    border-radius: 10px;
+    display: inline-block;
+}
+.inner2{
+    background-image: url(Images/background);
+    background-size: cover;
+    height: 690px;
+    width: 334px;
+    margin: -693px 0px 0px 480px;
+    border-radius: 10px;
+}
+#signin{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 126px 0px 0px 40px;
+}
+#create{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    top: 135px;
+}
+.info{
+    text-align: center;
+    background-color: white;
+    height: 30px;
+    width: 250px;
+    border: none;
+    border-radius: 15px;
+    margin: 0px 0px 0px 46px;
+}
+.create{
+    position: relative;
+    top: 130px;
+}
+#signup{
+    position: relative;
+    text-align: center; 
+    top: 75px;
+}
+#sign{
+    position: relative;
+    text-align: center;
+    top: 70px;
+}
+

@@ -1,0 +1,94 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-image: url(Images/pexels-hasan-albari-1229864.jpg);
+    background-size: cover;
+}
+.form {
+    background-color: rgba(128, 128, 128, 0.214);
+    height: 560px;
+    width: 380px;
+    position: absolute;
+    margin: 142px 0px 0px 700px;
+    border-radius: 10px;
+}
+#heading {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.input {
+    height: 30px;
+    width: 250px;
+    position: relative;
+    left: 71px;
+    top: 100px;
+    text-align: center;
+}
+.icon{
+    position: absolute;
+    z-index: -2px;
+    margin: 0px 0px 12px 86px;
+}
+#login{
+    background-color: rgb(6, 173, 240);
+    height: 30px;
+    width: 250px;
+    position: relative;
+    left: 71px;
+    top: 100px;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+p{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 128px 0px 0px 9px;
+}
+#user{
+    margin: 0px -82px -25px 82px;
+    position: relative;
+    top: 105px;
+    z-index: -2;
+}
+#forgot {
+    color: white;
+    position: relative;
+    top: 107px;
+    margin: 0px 0px 0px 71px;
+}
+
+#fb {
+    color: white;
+    background-color: rgba(34, 0, 255, 0.771);
+    height: 30px;
+    width: 115px;
+    position: absolute;
+    border: none;
+    margin: 25px 0px 0px 73px;
+}
+#in{
+    color: white;
+background-color: red;
+    height: 30px;
+    width: 115px;
+    position: absolute;
+    border: none;
+    margin: 25px 0px 0px 205px;
+
+}
+#fbicon{
+    color: white;
+    margin: 10px 0px 0px 10px;
+}
+#signup{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 10px 0px 0px 70px;
+}

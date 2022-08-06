@@ -1,0 +1,59 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.form{
+    height: 650px;
+    width: 400px;
+    background-image: url(Images/pexels-levent-simsek-4411432.jpg);
+    background-size: cover;
+    border-radius: 10px;
+    margin: 90px 0px 0px 653px;
+}
+#carrier{
+    color: white;
+    font-size: 60px;
+    position: absolute;
+    margin: -40px 0px 0px 6px;   
+}
+#carrier1{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 84px;
+}
+#heading{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 22px 0px 0px 117px;
+}
+.input{
+    color: white;
+    background-color: rgba(255, 255, 255, 0.384);
+    height: 50px;
+    width: 350px;
+    border-radius: 30px;
+    border: none;
+    margin: 3px 0px 0px 25px;
+}
+#create{
+    color: white;
+    background-color: rgb(65, 182, 228);
+    height: 50px;
+    width: 350px;
+    font-size: 20px;
+    border-radius: 30px;
+    border: none;
+    margin: 70px 0px 0px 25px;
+}
+#terms{
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 0px 0px 120px;
+}
+#icon{
+    color:rgb(65, 182, 228);
+    font-size: 20px;
+    margin: 16px 0px 0px 50px;
+    position: absolute;
+}

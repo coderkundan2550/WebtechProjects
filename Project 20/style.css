@@ -1,0 +1,90 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.box {
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
+    position: absolute;
+    border-radius: 20px;
+    background-size: cover;
+    margin: 135px 0px 0px 493px;
+    box-shadow: -3px -2px 17px 1px rgba(128, 128, 128, 0.795);
+}
+
+.box1 {
+    background-color: aqua;
+    height: 560px;
+    width: 414px;
+    margin: -600px 0px 0px -59px;
+}
+
+#head {
+    font-size: 35px;
+    margin-left: 100px;
+}
+
+.innerbox {
+    background-image: url(Images/pexels-august-de-richelieu-4427425.jpg);
+    height: 586px;
+    width: 380px;
+    padding: 10px;
+    background-size: cover;
+    margin: -760px 0px 0px 400px;
+    border-radius: 20px;
+}
+
+.red {
+    background-color: rgba(255, 4, 4, 0.712);
+    height: 606px;
+    width: 400px;
+    background-size: cover;
+    margin: -10px 0px 0px -10px;
+    border-radius: 20px;
+}
+
+.form {
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+    padding: 60px;
+    margin: 200px auto;
+    font-size: 14 px;
+}
+
+#p {
+    color: white;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-top: 250px;
+}
+
+#button {
+    background-color: white;
+    height: 30px;
+    width: 220px;
+    color: red;
+    border: none;
+    position: absolute;
+    margin: 21px 0px 0px -99px;
+}
+
+#input {
+    text-align: center;
+    background-color: rgba(128, 128, 128, 0.145);
+    height: 30px;
+    width: 300px;
+    border: none;
+}
+
+#signin {
+    color: white;
+    height: 35px;
+    width: 150px;
+    background-color: rgba(230, 11, 11, 0.84);
+    border: none;
+    margin: 24px 0px 0px 76px;
+    cursor: pointer;
+}
